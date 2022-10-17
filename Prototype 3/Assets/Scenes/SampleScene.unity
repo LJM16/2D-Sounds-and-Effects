@@ -242,6 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpForce: 10
   isOnGround: 0
+  isGameOver: 0
 --- !u!50 &953417926
 Rigidbody2D:
   serializedVersion: 4
